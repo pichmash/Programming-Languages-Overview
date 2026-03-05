@@ -14,7 +14,7 @@ A collaboraive guide by Michael Peter,
 This guide covers how programming languages are used, it also explains how they provides the essential tools that enables developers to design, build, and maintain software applications across a wide range of technology.
 
 ## Python
-<!-- [ Michael Peter]‎
+‎
 ‎Python is a high-level, interpreted programming language widely recognized for its simplicity, readability, and extensive versatility. Originally developed by Guido van Rossum and released in 1991, Python has evolved into one of the most influential and widely adopted programming languages in the modern technology landscape.
 
 ## Advantages
