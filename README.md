@@ -12,6 +12,7 @@ A collaboraive guide by Michael Peter,
  
 ## Introduction
 This guide covers how programming languages are used, it also explains how they provides the essential tools that enables developers to design, build, and maintain software applications across a wide range of technology.
+
 ##Python
 ‎
 ‎Python is a high-level, interpreted programming language widely recognized for its simplicity, readability, and extensive versatility. Originally developed by Guido van Rossum and released in 1991, Python has evolved into one of the most influential and widely adopted programming languages in the modern technology landscape.
@@ -26,8 +27,7 @@ This guide covers how programming languages are used, it also explains how they 
 ‎- It has a vast ecosystem of libraries and frameworks that extend its functionality and accelerate application development. Frameworks such as Django and Flask facilitate the creation of robust web applications, while libraries like NumPy, Pandas, and Tensor Flow provide powerful tools for scientific computing, data analysis, and machine learning.
 ‎
 ‎-Due to its strong community support, extensive documentation, and continuous development, Python remains a preferred choice for both beginner programmers and experienced software engineers, making it a foundational language in modern software development.
-‎
-‎
+‎‎
 
 ‎##CSS (Cascading Style Sheets)
 ‎
@@ -44,8 +44,7 @@ This guide covers how programming languages are used, it also explains how they 
 ‎- It supports animations, transitions, and media queries, enabling the development of dynamic and mobile-friendly web interfaces.
 ‎
 ‎-Due to its essential role in web design and user experience, CSS remains a critical technology for building modern, accessible, and visually appealing websites.
-‎
-‎
+‎‎
 
 ‎## JavaScript
 ‎
@@ -62,7 +61,6 @@ This guide covers how programming languages are used, it also explains how they 
 ‎-The language is supported by a powerful ecosystem of frameworks and libraries, including React, Angular, and Vue.js, which significantly enhance productivity and enable the development of large-scale, high-performance web applications.
 ‎
 ‎
-
 ‎
 ‎##C++
 ‎
