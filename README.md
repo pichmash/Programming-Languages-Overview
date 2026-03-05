@@ -16,8 +16,8 @@ This guide covers how programming languages are used, it also explains how they 
 ## Python
 <!-- [ Michael Peter]‎
 ‎Python is a high-level, interpreted programming language widely recognized for its simplicity, readability, and extensive versatility. Originally developed by Guido van Rossum and released in 1991, Python has evolved into one of the most influential and widely adopted programming languages in the modern technology landscape.
-‎
-## Advantages of the language
+
+## Advantages
 ‎
 ‎-The language is extensively utilized across numerous domains including web development, data science, artificial intelligence, machine learning, automation, and cybersecurity.
 ‎- Its clean and expressive syntax enables developers to write efficient and maintainable code, significantly reducing development complexity while improving productivity.
